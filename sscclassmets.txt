@@ -1,0 +1,3 @@
+ssc|friendname
+10th|ahmad
+10thj|ramakrishna
