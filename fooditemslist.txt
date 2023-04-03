@@ -1,0 +1,3 @@
+fooditem|price
+chickenbiryani|100
+muttombiryani|300
