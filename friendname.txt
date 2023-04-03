@@ -2,5 +2,5 @@ class*friendname
 childhoodfriend*munaf
 childhoodfrined*anwar
 childhoodfriend*riyaz
-childhoodfriend*manhor
 chilhoodfrined*lavani
+chilhoodfriend*zubair
